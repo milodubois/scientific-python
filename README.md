@@ -17,4 +17,4 @@ We expect to have this project completed within the next 30-45 days, moving towa
 
 ## about the curator
 
-I am curating/publishing this under my pseudonym, as I do all of my published tutorial work for Python technicals (due to COI considerations). However, my biographical sketch and all other information are reflective.
+I am curating/publishing this under my pseudonym, as I do all of my OTR published tutorial work for Python technicals on public remotes (to mitigate any possible COI, CI, IP risks). However, my biographical sketch and all other information are commensurately reflective.
