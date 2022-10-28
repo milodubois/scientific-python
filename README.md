@@ -13,7 +13,7 @@ Please, note well:
 
 ## timeline
 
-We expect to have this project completed within the next 30-45 days, moving toward an open-source EPUB and open-source web version immediately after validation. Followingly, we will use this curriculum in advanced graduate or introductory graduate-level curriculum.
+We expect to have this project completed within the next 30-45 days, moving toward an open-source EPUB and open-source web version immediately after validation. Followingly, we will use this curriculum in advanced undergraduate or introductory graduate-level curriculum.
 
 ## about the curator
 
