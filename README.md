@@ -14,7 +14,3 @@ Please, note well:
 ## timeline
 
 We expect to have this project completed within the next 30-45 days, moving toward an open-source EPUB and open-source web version immediately after validation. Followingly, we will use this curriculum in advanced undergraduate or introductory graduate-level curriculum.
-
-## about the curator
-
-I am curating/publishing this under my pseudonym, as I do all of my OTR published tutorial work for Python technicals on public remotes (to mitigate any possible COI, CI, IP risks). However, my biographical sketch and all other information are commensurately reflective.
